@@ -1,9 +1,9 @@
+# ToDo-List-v1
 
-Today i learnt a Intresting Topic About GITHUB.
-We enjoyed a lot by the playing of with the github and
-how to use the github.
- what is the use of github.
+Two route are there:
+one is home route i.e. localhost:3000
+another one is work route i.e. localhost:3000/work
 
-And also I learn about How the Frontend and Backend Code Works.
 
-thank you
+Before building the project first do npm install,
+to install all the node module packages from the dependencies of package.json
